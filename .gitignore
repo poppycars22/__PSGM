@@ -3,9 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-# Other things scyye added
-*.csproj
-
 # User-specific files
 *.rsuser
 *.suo
@@ -396,8 +393,3 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-
-# JetBrains Rider
-*.sln.iml
-*.csproj
-/Code/PoppyScyyeGameModes.csproj
